@@ -1,3 +1,1 @@
-[master b2b9223] How to be up to date in git
- 1 file changed, 0 insertions(+), 0 deletions(-)
- rename 0x03-git/{bash => }/up_to_date (100%)
+git pull
